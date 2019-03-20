@@ -1,7 +1,7 @@
 # Cloudflare's Requester IP Address
 Cloudflare's Requester IP Address its a Laravel Package to retrieve the real requester IP Address behind the [Cloudflare's Reverse Proxy](https://support.cloudflare.com/hc/en-us/articles/200170986-How-does-Cloudflare-handle-HTTP-Request-headers-).
 
-##Dependencies
+## Dependencies
 As part of my personal effort to everyone migrate to [Laravel 5.8](https://laravel-news.com/laravel-5-8) this package has this Laravel version as a minimum required version per default.
 
 ## Installation
