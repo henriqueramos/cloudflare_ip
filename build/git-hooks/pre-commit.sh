@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo "PRE-COMMIT STARTED - CHECKING YOUR CODE QUALITY"
+composer phpcs 
+echo "PRE-COMMIT FINISHED"
